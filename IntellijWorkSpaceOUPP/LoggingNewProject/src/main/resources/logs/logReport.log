@@ -1,0 +1,4 @@
+2023-11-09 13:05:16 INFO  DOMConfiguratorClass:12 - Sample info message
+2023-11-09 13:05:16 WARN  DOMConfiguratorClass:13 - Sample warn message
+2023-11-09 13:05:16 ERROR DOMConfiguratorClass:14 - Sample error message
+2023-11-09 13:05:16 FATAL DOMConfiguratorClass:15 - Sample fatal message
